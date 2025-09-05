@@ -92,12 +92,12 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=purnimaharshini&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=purnimaharshini&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purnimaharshini&theme=react-dark" alt="activity graph"/>
 </p>
 
 ---## 📫 Let's Connect
